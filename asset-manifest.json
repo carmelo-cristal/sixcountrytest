@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//sixcountrytest/static/css/main.5f9aa147.css",
+    "main.js": "//sixcountrytest/static/js/main.40ff4036.js",
+    "static/media/main.jpg": "//sixcountrytest/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "//sixcountrytest/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "//sixcountrytest/index.html",
+    "main.5f9aa147.css.map": "//sixcountrytest/static/css/main.5f9aa147.css.map",
+    "main.40ff4036.js.map": "//sixcountrytest/static/js/main.40ff4036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f9aa147.css",
+    "static/js/main.40ff4036.js"
+  ]
+}
